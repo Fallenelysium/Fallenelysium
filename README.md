@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fallenelysium
+- 👋 Hi, I’m djaylon aka @Fallenelysium
 - 👀 I’m interested in race and strategy game
 - 🌱 I’m currently learning software developer-----front end adn a little back end-----
 - 💞️ I’m looking to collaborate on 
